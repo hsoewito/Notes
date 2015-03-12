@@ -1,9 +1,9 @@
-# test-repo README file
-## Secondary heading
-### Tertiary heading
-This is a test repo README file.
-I just updated this from local repository.
-Then I used the following commands:
+# This Repository contains various notes related to git
+
+## The following are basic commands:
+  * git add <filename> (to add a file)
   * git commit -a -m "Update again"
   * git push (to push it to remote repository.)
   * If modified in github, use 'git pull origin master' to sync local files with remote files.
+
+## More notes can be added below.
