@@ -1,4 +1,4 @@
-# This Repository contains various notes related to git
+# This Repository contains various notes for git
 
 ## The following are basic commands:
   * git add <filename> (to add a file)
