@@ -1,6 +1,8 @@
 # This Repository contains various notes for git
 
 ## The following are basic commands:
+  * git init (to initialize a local Git repo in this directory)
+  * git remote add origin https://github.com/yourUserNameHere/test-repo.git
   * git add <filename> (to add a file)
   * git commit -a -m "Update again"
   * git push (to push it to remote repository.)
