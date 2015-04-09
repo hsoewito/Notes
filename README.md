@@ -8,4 +8,6 @@
   * git push (to push it to remote repository.)
   * If modified in github, use 'git pull origin master' to sync local files with remote files.
 
-## More notes can be added below.
+## R Programming:
+  * install.packages("swirl")
+|* install.packages("swirl")
