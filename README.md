@@ -9,5 +9,9 @@
   * If modified in github, use 'git pull origin master' to sync local files with remote files.
 
 ## R Programming:
+  * R.version.string - show current version of R
+  * Inf - Infinity (1/0), NaN - Not a Number (0/0)
+  * getwd() - show working directory
+  * attributes(object) - show attributes of an object
   * install.packages("swirl")
-|* install.packages("swirl")
+  * 
