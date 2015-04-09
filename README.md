@@ -11,7 +11,10 @@
 ## R Programming:
   * R.version.string - show current version of R
   * Inf - Infinity (1/0), NaN - Not a Number (0/0)
+  * ls() - show current variables/objects
   * getwd() - show working directory
   * attributes(object) - show attributes of an object
   * install.packages("swirl")
-  * 
+  * rm(list=ls()) - remove all objects in the list, as shown using ls().
+  * library(swirl) - to load the swirl package
+  * swirl() - to run the swirl package
